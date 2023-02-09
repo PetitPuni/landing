@@ -1,0 +1,14 @@
+.btn-purple{
+  background-color:#751fb2;
+  color: white;
+  font-size: 24px;
+  border-radius: 12px;
+  border: white 2px solid;
+  padding: 8px 64px;
+  transition: background-color linear 0.5s;
+  margin-left: 20px;
+}
+
+.btn-purple:hover{
+  background-color: rgb(103, 18, 103);
+}

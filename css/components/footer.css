@@ -1,0 +1,30 @@
+.footer {
+  text-align: center;
+  padding: 40px;
+  background: linear-gradient(lightgray, gray) rgb(148, 148, 148);
+  margin-top: 60px;
+}
+
+.footer a {
+  font-size: 30px;
+  color:  #751fb2;
+}
+
+.footer>ul{
+  display: flex;
+  list-style: none;
+  justify-content: center;
+}
+
+.footer > ul > li {
+  padding: 0 20px;
+}
+
+
+.footer > p {
+  color: #3e3e3e;
+}
+
+.footer .fa-solid{
+  color: #BF0F12;
+}

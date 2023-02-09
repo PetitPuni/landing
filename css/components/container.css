@@ -1,0 +1,11 @@
+.container {
+  width: 900px;
+  margin: auto;
+  background-color: lightgray;
+  text-align: center;
+}
+
+.container h2{
+  color: #751fb2;
+  text-shadow: 1px 1px 20px #751fb2;
+}
